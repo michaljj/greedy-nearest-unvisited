@@ -53,3 +53,11 @@ Output:
 ## See also
 [GridTraversal](https://github.com/michaljj/GridTraversal) — an earlier beam search
 solver for the non-revisiting variant of the same grid traversal problem.
+
+---
+
+## License
+
+Source code is licensed under the **PolyForm Noncommercial License 1.0.0**
+(see [`LICENSE.md`](LICENSE.md)). Free for personal, academic, research and
+other noncommercial use; commercial use requires a separate licence.
