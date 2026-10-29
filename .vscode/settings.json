@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Repos\\GreedyNU BFS",
+            "binaryPath": "d:\\Repos\\GreedyNU BFS\\main",
+            "binaryArgs": []
+        }
+    ]
+}

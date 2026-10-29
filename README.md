@@ -51,7 +51,7 @@ Output:
 | `main.c` | Test cases |
 
 ## See also
-[GridTraversal](https://github.com/michaljj/GridTraversal) — an earlier beam search
+[grid-traversal](https://github.com/michaljj/grid-traversal) — an earlier beam search
 solver for the non-revisiting variant of the same grid traversal problem.
 
 ---
